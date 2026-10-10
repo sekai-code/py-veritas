@@ -19,3 +19,9 @@ x = 2 + 2
 print(x)
 ```
 
+
+Un ejemplo roto:
+
+```python
+print(nombre_que_no_existe)
+```
